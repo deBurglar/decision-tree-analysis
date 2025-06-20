@@ -1,9 +1,5 @@
 # Loan Eligibility Prediction Project 📊💸
 
-## Introduction
-
-Loans constitute the fundamental business of banks, with the primary source of profit being the interest accrued on loans. Before granting a loan, financial institutions engage in a thorough process of verification and validation. Despite this, there remains uncertainty regarding whether the applicant possesses the capability to repay the loan without encountering difficulties. In this project, I construct a predictive model aimed at determining whether an applicant is likely to repay the loan to the lending company. 🏦💰
-
 ## Problem Statement
 
 Dream Housing Finance company specializes in providing all types of loans across urban, semi-urban, and rural areas. Upon receiving a loan application, the company undertakes a validation process to determine the customer's eligibility. This validation process is based on various customer details provided during the online application, including age, house ownership, working experience, intent of loan, income, loan amount, credit history, among others. To streamline and automate this loan eligibility process in real-time, the company aims to identify specific customer segments that qualify for loan amounts. By targeting these eligible customer segments, the company can optimize its loan offerings and better serve its clientele. 🏡💻
